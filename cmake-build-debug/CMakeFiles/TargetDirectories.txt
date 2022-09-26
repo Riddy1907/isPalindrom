@@ -1,0 +1,3 @@
+/Users/ridvanair/dev/c++/isPalindrom/cmake-build-debug/CMakeFiles/isPalindrom.dir
+/Users/ridvanair/dev/c++/isPalindrom/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ridvanair/dev/c++/isPalindrom/cmake-build-debug/CMakeFiles/rebuild_cache.dir
